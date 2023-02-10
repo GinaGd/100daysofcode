@@ -6,4 +6,4 @@ https://medium.com/@g-gina/the-100daysofcode-where-will-it-take-me-as-a-freelanc
 
 
 Note that the project on ongoing and share in this repository are belonging to the work I am doing with freecodecamp. 
-Using this content to make some test with Github. And will delete it later 
+Using this content to make some test with Github. I will delete it later 
